@@ -1,0 +1,16 @@
+
+body {
+  background-color: black;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.contenedor {
+  position: relative;
+  max-width: 70%;
+  width: 40rem;
+  height: 50rem;
+}
